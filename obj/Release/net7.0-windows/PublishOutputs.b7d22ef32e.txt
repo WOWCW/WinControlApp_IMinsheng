@@ -1,0 +1,4 @@
+D:\ProProjects\CSharp_WinControl\WinControlApp\bin\Release\net7.0-windows\publish\WinControlApp.exe
+D:\ProProjects\CSharp_WinControl\WinControlApp\bin\Release\net7.0-windows\publish\WinControlApp.dll
+D:\ProProjects\CSharp_WinControl\WinControlApp\bin\Release\net7.0-windows\publish\WinControlApp.deps.json
+D:\ProProjects\CSharp_WinControl\WinControlApp\bin\Release\net7.0-windows\publish\WinControlApp.runtimeconfig.json

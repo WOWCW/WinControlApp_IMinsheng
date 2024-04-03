@@ -1,0 +1,16 @@
+D:\ProProjects\CSharp_WinControl\WinControlApp\bin\Debug\net7.0-windows\WinControlApp.exe
+D:\ProProjects\CSharp_WinControl\WinControlApp\bin\Debug\net7.0-windows\WinControlApp.deps.json
+D:\ProProjects\CSharp_WinControl\WinControlApp\bin\Debug\net7.0-windows\WinControlApp.runtimeconfig.json
+D:\ProProjects\CSharp_WinControl\WinControlApp\bin\Debug\net7.0-windows\WinControlApp.dll
+D:\ProProjects\CSharp_WinControl\WinControlApp\obj\Debug\net7.0-windows\WinControlApp.csproj.GenerateResource.cache
+D:\ProProjects\CSharp_WinControl\WinControlApp\obj\Debug\net7.0-windows\WinControlApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProProjects\CSharp_WinControl\WinControlApp\obj\Debug\net7.0-windows\WinControlApp.AssemblyInfoInputs.cache
+D:\ProProjects\CSharp_WinControl\WinControlApp\obj\Debug\net7.0-windows\WinControlApp.AssemblyInfo.cs
+D:\ProProjects\CSharp_WinControl\WinControlApp\obj\Debug\net7.0-windows\WinControlApp.csproj.CoreCompileInputs.cache
+D:\ProProjects\CSharp_WinControl\WinControlApp\obj\Debug\net7.0-windows\WinControlApp.dll
+D:\ProProjects\CSharp_WinControl\WinControlApp\obj\Debug\net7.0-windows\refint\WinControlApp.dll
+D:\ProProjects\CSharp_WinControl\WinControlApp\obj\Debug\net7.0-windows\WinControlApp.genruntimeconfig.cache
+D:\ProProjects\CSharp_WinControl\WinControlApp\obj\Debug\net7.0-windows\ref\WinControlApp.dll
+D:\ProProjects\CSharp_WinControl\WinControlApp\obj\Debug\net7.0-windows\WinControlApp.FrmMain.resources
+D:\ProProjects\CSharp_WinControl\WinControlApp\obj\Debug\net7.0-windows\WinControlApp.FormClr.resources
+D:\ProProjects\CSharp_WinControl\WinControlApp\obj\Debug\net7.0-windows\WinControlApp.Resource.resources

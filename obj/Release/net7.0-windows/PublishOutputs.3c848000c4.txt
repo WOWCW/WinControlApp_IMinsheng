@@ -1,0 +1,4 @@
+D:\app.publish\WinControlApp\WinControlApp.exe
+D:\app.publish\WinControlApp\WinControlApp.dll
+D:\app.publish\WinControlApp\WinControlApp.deps.json
+D:\app.publish\WinControlApp\WinControlApp.runtimeconfig.json
